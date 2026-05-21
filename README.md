@@ -154,7 +154,7 @@ AWS Certified Solutions Architect Associate • AWS Certified Cloud Practitioner
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="ADD_YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/saurabh-thakre-6015a83aa">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
