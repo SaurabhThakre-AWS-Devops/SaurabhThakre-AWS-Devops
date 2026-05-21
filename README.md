@@ -130,9 +130,7 @@ AWS Certified Solutions Architect Associate • AWS Certified Cloud Practitioner
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaurabhThakre-AWS-Devops&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhThakre-AWS-Devops&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhThakre-AWS-Devops&theme=tokyonight"/>
 
 </p>
 
