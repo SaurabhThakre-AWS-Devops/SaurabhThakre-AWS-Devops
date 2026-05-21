@@ -1,7 +1,5 @@
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Saurabh%20Thakre&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20DevOps%20Engineer%20|%20Cloud%20Automation%20Engineer&descAlignY=58"/>
-
 </p>
 
 <h1 align="center">Hi 👋, I'm Saurabh Thakre</h1>
@@ -13,17 +11,17 @@ AWS Certified Solutions Architect Associate • AWS Certified Cloud Practitioner
 <p align="center">
 
 <a href="mailto:saurabhthakre.cloud@gmail.com">
-
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-
 </a>
 
 <a href="ADD_YOUR_LINKEDIN_LINK">
-
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-
 </a>
 
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SaurabhThakre-AWS-Devops&label=Profile%20Views&color=0e75b6&style=for-the-badge">
 </p>
 
 ---
@@ -40,7 +38,25 @@ AWS Certified Solutions Architect Associate • AWS Certified Cloud Practitioner
 
 ✔ Hands-on with **AWS, Azure, Jenkins, Terraform, Docker, Kubernetes & Linux**
 
-✔ Working on **CI/CD Automation, Cloud Infrastructure, Monitoring & DevOps Engineering**
+✔ Experience in **CI/CD Automation, Cloud Infrastructure, Monitoring & DevOps Engineering**
+
+✔ Skilled in **Linux Administration, Deployment Automation & Production Support**
+
+---
+
+# 🎯 Current Focus
+
+🔹 Building End-to-End DevOps Pipelines
+
+🔹 AWS & Azure Cloud Infrastructure Projects
+
+🔹 Kubernetes, Terraform & Infrastructure Automation
+
+🔹 CI/CD Automation using Jenkins, Docker & GitHub
+
+🔹 Monitoring & Observability using Prometheus, Grafana & Dynatrace
+
+🔹 Production Support, Linux Administration & Troubleshooting
 
 ---
 
@@ -80,6 +96,8 @@ AWS Certified Solutions Architect Associate • AWS Certified Cloud Practitioner
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
+
 <img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype"/>
 
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube"/>
@@ -112,9 +130,9 @@ AWS Certified Solutions Architect Associate • AWS Certified Cloud Practitioner
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaurabhThakre-AWS-Devops&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaurabhThakre-AWS-Devops&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhThakre-AWS-Devops&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhThakre-AWS-Devops&theme=tokyonight"/>
 
 </p>
 
@@ -124,7 +142,7 @@ AWS Certified Solutions Architect Associate • AWS Certified Cloud Practitioner
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaurabhThakre-AWS-Devops&theme=tokyonight&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SaurabhThakre-AWS-Devops&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -132,6 +150,14 @@ AWS Certified Solutions Architect Associate • AWS Certified Cloud Practitioner
 
 # 📫 Connect With Me
 
-📧 **Email:** saurabhthakre.cloud@gmail.com
+<p align="center">
 
-💼 **LinkedIn:** ADD_YOUR_LINKEDIN_LINK
+<a href="mailto:saurabhthakre.cloud@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="ADD_YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
